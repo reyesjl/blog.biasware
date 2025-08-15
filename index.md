@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Biasware Research Blog
+title: Biasware Research Index
 ---
 
-Welcome to the Biasware Research Blog!
+Welcome to Biasware Research Index
 
 <ul>
   {% for post in site.posts %}
