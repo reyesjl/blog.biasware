@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Algorithmic Colonialism: AI and Global Digital Power Imbalances"
-date: 2025-08-14
+date: 2025-07-01
 categories: [research, AI]
 tags: [algorithmic-colonialism, global-inequality, AI-bias]
 description: "Exploring how AI systems reinforce global power imbalances and what can be done to create a more inclusive AI future."
