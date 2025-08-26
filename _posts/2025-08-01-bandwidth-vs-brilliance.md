@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bandwidth vs. Brilliance: A Functional Information Model for American Rugby Development"
-date: 2025-08-13
+date: 2025-08-01
 categories: [research, rugby]
 tags: [coaching, information-theory, video-analysis, AI]
 description: "How AI-powered video processing can turn raw rugby footage into functional coaching knowledge and increase America's coaching bandwidth."
